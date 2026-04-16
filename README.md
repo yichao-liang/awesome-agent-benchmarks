@@ -19,15 +19,23 @@ Interactive environments — primarily 2D — for training and evaluating decisi
 | --- | --- | --- |
 | [Terra Nova](https://arxiv.org/abs/2511.15378) | 2025 | Civilization-V-inspired challenge environment combining partial observability, credit assignment, and huge action spaces. |
 | [AutumnBench](https://arxiv.org/abs/2510.19788) | 2025 | 43 interactive grid-world environments and 129 tasks evaluating world-model learning via reward-free exploration. |
+| [PuzzleJAX](https://arxiv.org/abs/2508.16821) | 2025 | GPU-accelerated puzzle game engine benchmarking RL, tree search, and LLM reasoning across hundreds of games. |
 | [ARC-AGI-3](https://arcprize.org/arc-agi/3) | 2025 | Interactive reasoning benchmark where agents explore novel games, acquire goals on the fly, and adapt. |
-| [Craftax](https://arxiv.org/abs/2402.16801) | 2024 | JAX-based open-world benchmark extending Crafter with NetHack-inspired mechanics for fast open-ended RL research. |
+| [POPGym Arcade](https://arxiv.org/abs/2503.01450) | 2025 | Atari-inspired hardware-accelerated pixel environments for analyzing agent memory under partial observability. |
 | [PUZZLES](https://arxiv.org/abs/2407.00401) | 2024 | 40 Simon Tatham logic puzzles of adjustable size benchmarking algorithmic and logical reasoning in RL. |
+| [Overcooked Generalisation Challenge](https://arxiv.org/abs/2406.17949) | 2024 | Overcooked-AI extension benchmarking RL cooperation with novel partners across procedurally generated kitchens. |
 | [DiscoveryWorld](https://arxiv.org/abs/2406.06769) | 2024 | Text-based environment with 120 tasks requiring agents to form hypotheses, run experiments, and conclude discoveries. |
+| [Craftax](https://arxiv.org/abs/2402.16801) | 2024 | JAX-based open-world benchmark extending Crafter with NetHack-inspired mechanics for fast open-ended RL research. |
+| [XLand-MiniGrid](https://arxiv.org/abs/2312.12044) | 2023 | JAX-based grid-world suite with millions of pre-sampled tasks for meta-reinforcement learning research. |
 | [Minigrid & Miniworld](https://arxiv.org/abs/2306.13831) | 2023 | Modular 2D grid-world and 3D first-person environments for fast goal-oriented RL research. |
+| [Pgx](https://arxiv.org/abs/2303.17503) | 2023 | JAX-based suite of GPU/TPU-accelerated board games (chess, Go, shogi, backgammon) for RL. |
 | [MiniHack](https://arxiv.org/abs/2109.13202) | 2021 | Sandbox for designing custom NetHack-based RL environments targeting exploration, transfer, and specific capabilities. |
+| [Crafter](https://arxiv.org/abs/2109.06780) | 2021 | Open-world 2D survival game evaluating diverse agent capabilities via semantically meaningful achievements. |
 | [Alchemy](https://arxiv.org/abs/2102.02926) | 2021 | 3D Unity meta-RL benchmark with resampled latent causal structure for structure learning and hypothesis testing. |
 | [NetHack Learning Environment](https://arxiv.org/abs/2006.13760) | 2020 | Scalable, procedurally-generated roguelike environment for long-horizon exploration, planning, and skill-acquisition RL. |
 | [Procgen](https://arxiv.org/abs/1912.01588) | 2019 | 16 procedurally-generated game-like environments benchmarking RL sample efficiency and generalization. |
+| [SMAC](https://arxiv.org/abs/1902.04043) | 2019 | StarCraft II micromanagement benchmark for cooperative multi-agent deep reinforcement learning. |
+| [Hanabi Learning Environment](https://arxiv.org/abs/1902.00506) | 2019 | Cooperative card game benchmark requiring multi-agent coordination and theory-of-mind under partial information. |
 | [Atari (ALE)](https://arxiv.org/abs/1207.4708) | 2012 | Interface to hundreds of Atari 2600 games; canonical general-agent and RL evaluation platform. |
 
 ---
