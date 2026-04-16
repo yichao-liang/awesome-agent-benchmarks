@@ -32,6 +32,7 @@ Interactive environments — primarily 2D — for training and evaluating decisi
 | [MiniHack](https://arxiv.org/abs/2109.13202) | 2021 | Sandbox for designing custom NetHack-based RL environments targeting exploration, transfer, and specific capabilities. |
 | [Crafter](https://arxiv.org/abs/2109.06780) | 2021 | Open-world 2D survival game evaluating diverse agent capabilities via semantically meaningful achievements. |
 | [Alchemy](https://arxiv.org/abs/2102.02926) | 2021 | 3D Unity meta-RL benchmark with resampled latent causal structure for structure learning and hypothesis testing. |
+| [Virtual Tools](https://www.pnas.org/doi/10.1073/pnas.1912341117) | 2020 | Tool-use puzzle game probing flexible, creative physical problem solving and reasoning. |
 | [NetHack Learning Environment](https://arxiv.org/abs/2006.13760) | 2020 | Scalable, procedurally-generated roguelike environment for long-horizon exploration, planning, and skill-acquisition RL. |
 | [Procgen](https://arxiv.org/abs/1912.01588) | 2019 | 16 procedurally-generated game-like environments benchmarking RL sample efficiency and generalization. |
 | [SMAC](https://arxiv.org/abs/1902.04043) | 2019 | StarCraft II micromanagement benchmark for cooperative multi-agent deep reinforcement learning. |
@@ -62,7 +63,6 @@ Physics-based simulation (and real-robot) benchmarks covering manipulation, loco
 | [FurnitureBench](https://arxiv.org/abs/2305.12821) | 2023 | Reproducible real-world furniture assembly benchmark for long-horizon complex robot manipulation. |
 | [ProcTHOR](https://arxiv.org/abs/2206.06994) | 2022 | Procedurally generates large-scale interactive houses for embodied-AI navigation, rearrangement, and manipulation. |
 | [CALVIN](https://arxiv.org/abs/2112.03227) | 2021 | Open-source simulated benchmark for long-horizon language-conditioned robot manipulation from onboard sensors. |
-| [Virtual Tools](https://www.pnas.org/doi/10.1073/pnas.1912341117) | 2020 | Tool-use puzzle game probing flexible, creative physical problem solving and reasoning. |
 | [ALFRED](https://arxiv.org/abs/1912.01734) | 2020 | Grounded natural-language instructions mapped to egocentric action sequences for household tasks. |
 | [Habitat](https://arxiv.org/abs/1904.01201) | 2019 | High-performance photorealistic 3D simulator for embodied navigation, instruction following, and question answering. |
 | [PHYRE](https://arxiv.org/abs/1908.05656) | 2019 | 2D classical-mechanics puzzles benchmarking sample-efficient physical reasoning. |
