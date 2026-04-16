@@ -26,6 +26,7 @@ Interactive environments — primarily 2D — for training and evaluating decisi
 | PUZZLES | 2024 | 2D | [arXiv:2407.00401](https://arxiv.org/abs/2407.00401) | Suite of Simon Tatham puzzle games for reasoning-focused RL. |
 | Craftax | 2024 | 2D | [arXiv:2402.16801](https://arxiv.org/abs/2402.16801) | JAX-based open-world Crafter/NetHack hybrid for fast RL research. |
 | ARC-AGI-3 | 2025 | 2D | [arcprize.org](https://arcprize.org/arc-agi/3) | Interactive reasoning games designed to resist memorization. |
+| AutumnBench | 2025 | 2D / grid | [arXiv:2510.19788](https://arxiv.org/abs/2510.19788) | 43 grid-world environments and 129 tasks for evaluating world-model learning. |
 | Terra Nova | 2025 | 2D / symbolic | [arXiv:2511.15378](https://arxiv.org/abs/2511.15378) | Civilization-V-inspired CCE with large action spaces and partial observability. |
 
 ---
