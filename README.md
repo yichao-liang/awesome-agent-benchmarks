@@ -88,7 +88,5 @@ Benchmarks for agents that interact with software — browsers, desktop GUIs, te
 ## Contributing
 
 PRs welcome. Please:
-- Keep entries within one of the three domains above.
 - Link the benchmark **Name** to its paper or primary reference.
-- Keep the description to one sentence (~15 words).
-- Preserve chronological order within each table.
+- Keep the description to one or two sentences.
