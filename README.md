@@ -8,6 +8,7 @@ A curated list of benchmarks for evaluating AI agents. Scoped to three domains: 
 - [Robotics](#robotics)
 - [Computer Use](#computer-use)
 - [Contributing](#contributing)
+- [Related Work](#related-work)
 
 ---
 
@@ -100,3 +101,16 @@ PRs welcome. Please:
 - Link the benchmark **Name** to its paper or primary reference.
 - Keep the description to one or two sentences.
 - Preserve reverse chronological order within each table.
+
+---
+
+## Related Work
+
+Several curated lists overlap with this collection but emphasize different slices of the agent-evaluation landscape:
+
+- [Awesome-General-Agents-Benchmark](https://github.com/supernalintelligence/Awesome-General-Agents-Benchmark) — 50+ benchmarks across general reasoning, agent tasks, domain skills (math/science/coding/web), multimodal, and safety; annotated with top-performer scores and human baselines.
+- [awesome-ai-benchmarks](https://github.com/panilya/awesome-ai-benchmarks) — 114+ entries spanning programming, multimodal, translation, agent reasoning, and creative evaluation; paired with a searchable site at [aibenchmarks.net](https://aibenchmarks.net).
+- [ai-agent-benchmark-compendium](https://github.com/philschmid/ai-agent-benchmark-compendium) — 50+ benchmarks for function-calling/tool use, general assistant/reasoning, coding, and computer interaction; heavy overlap with our *Computer Use* table.
+- [Awesome-Robotic-Benchmarks](https://github.com/HaoranZhangumich/Awesome-Robotic-Benchmarks) — 30+ robotics benchmarks covering manipulation, locomotion, navigation, HRI, safety, simulation, and generalist tasks; finer sub-categories than our *Robotics* table.
+
+In contrast, this list is scoped to **interactive decision-making environments** across games, robotics, and computer use, with single-line reverse-chronological entries so the frontier in each domain is visible at a glance.
