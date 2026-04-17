@@ -49,6 +49,7 @@ Physics-based simulation (and real-robot) benchmarks covering manipulation, loco
 
 | Name | Year | Description |
 | --- | --- | --- |
+| [CaP-X](https://arxiv.org/abs/2603.22435) | 2026 | Code-as-policy robot-manipulation benchmark with 100+ tasks evaluating LLMs/VLMs generating control code from natural language. |
 | [KinDER](https://prpl-group.com/kinder-site/) | 2026 | 25 procedurally-generated 2D/3D environments isolating kinematic and dynamic physical reasoning challenges. |
 | [VLMgineer](https://arxiv.org/abs/2507.12644) | 2025 | Framework using VLMs with evolutionary search to co-design physical tools and action plans. |
 | [VLABench](https://arxiv.org/abs/2412.18194) | 2025 | 100 language-conditioned manipulation task categories evaluating VLAs on long-horizon reasoning and world knowledge. |
