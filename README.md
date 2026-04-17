@@ -115,4 +115,4 @@ Several curated lists overlap with this collection but emphasize different slice
 - [ai-agent-benchmark-compendium](https://github.com/philschmid/ai-agent-benchmark-compendium) — 50+ benchmarks for function-calling/tool use, general assistant/reasoning, coding, and computer interaction; heavy overlap with our *Computer Use* table.
 - [Awesome-Robotic-Benchmarks](https://github.com/HaoranZhangumich/Awesome-Robotic-Benchmarks) — 30+ robotics benchmarks covering manipulation, locomotion, navigation, HRI, safety, simulation, and generalist tasks; finer sub-categories than our *Robotics* table.
 
-In contrast, this list is scoped to **interactive decision-making environments** across games, robotics, and computer use, with single-line reverse-chronological entries so the frontier in each domain is visible at a glance.
+In contrast, this list is scoped to **interactive decision-making environments** across games, robotics, and computer use.
